@@ -35,6 +35,10 @@ section#featured-property p {
   margin: auto; 
 }
 
+#details {
+  display: block;
+  float: left
+}
 
 
 
