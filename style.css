@@ -21,4 +21,6 @@ figure {
 
 nav a {
   text-align: center;
+  padding: 0 10px 0 10px;
+  background-color: gray;
 }
